@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 569f7ff8fada846159f65b7abe3dc816
+timeCreated: 1502956041
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: 1051_Lianpo_High
+    100002: 1071_Zhaoyun_High
+    100004: default002
+    100006: default006
+    100008: default009
+    100010: default010
+    100012: default011
+    100014: default012
+    100016: default014
+    100018: default027
+    100020: default032
+    100022: default042
+    100024: default045
+    100026: default048
+    100028: default052
+    100030: default085
+    100032: default086
+    100034: //RootNode
+    400000: 1051_Lianpo_High
+    400002: 1071_Zhaoyun_High
+    400004: default002
+    400006: default006
+    400008: default009
+    400010: default010
+    400012: default011
+    400014: default012
+    400016: default014
+    400018: default027
+    400020: default032
+    400022: default042
+    400024: default045
+    400026: default048
+    400028: default052
+    400030: default085
+    400032: default086
+    400034: //RootNode
+    2300000: 1051_Lianpo_High
+    2300002: 1071_Zhaoyun_High
+    2300004: default002
+    2300006: default006
+    2300008: default009
+    2300010: default010
+    2300012: default011
+    2300014: default012
+    2300016: default014
+    2300018: default027
+    2300020: default032
+    2300022: default042
+    2300024: default045
+    2300026: default048
+    2300028: default052
+    2300030: default085
+    2300032: default086
+    3300000: 1051_Lianpo_High
+    3300002: 1071_Zhaoyun_High
+    3300004: default002
+    3300006: default006
+    3300008: default009
+    3300010: default010
+    3300012: default011
+    3300014: default012
+    3300016: default014
+    3300018: default027
+    3300020: default032
+    3300022: default042
+    3300024: default045
+    3300026: default048
+    3300028: default052
+    3300030: default085
+    3300032: default086
+    4300000: default002
+    4300002: default006
+    4300004: default009
+    4300006: default010
+    4300008: default011
+    4300010: default012
+    4300012: default014
+    4300014: default032
+    4300016: default027
+    4300018: default042
+    4300020: default045
+    4300022: default048
+    4300024: default052
+    4300026: default085
+    4300028: default086
+    4300030: 1051_Lianpo_High
+    4300032: 1071_Zhaoyun_High
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
